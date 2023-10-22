@@ -21,3 +21,4 @@ int main()
  scanf("%u",&n);
 printf("cycle result=%d\nRec result=%d\n",cyc(n),rec(n,g));
 }
+Footer
